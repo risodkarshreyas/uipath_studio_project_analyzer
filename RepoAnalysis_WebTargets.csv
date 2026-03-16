@@ -1,0 +1,17 @@
+Project,URL,Page Title,Browser,Activity,XAML File
+ExpenseClaims,https://erp.company.com/expenses,,Google Chrome,Open ERP Web Portal,Main.xaml
+ExpenseClaims,https://erp.company.com/expenses/new,,,Go to New Claim,Main.xaml
+ExpenseClaims,,ERP - New Expense Claim,Google Chrome,Enter Claim Amount,Main.xaml
+ExpenseClaims,,ERP - Claim Submitted,Google Chrome,Get Claim Reference,Main.xaml
+InvoiceProcessing,https://invoiceportal.acme.com/login,,Google Chrome,Open Invoice Portal,Main.xaml
+InvoiceProcessing,https://invoiceportal.acme.com/upload,,,Go to Upload Page,Main.xaml
+InvoiceProcessing,,ACME Invoice Portal - Login,Google Chrome,Enter Username,Main.xaml
+InvoiceProcessing,,ACME Invoice Portal - Dashboard,Google Chrome,Click Login,Main.xaml
+InvoiceProcessing,,ACME Invoice Portal - Upload,Google Chrome,Click Upload,Main.xaml
+InvoiceProcessing,https://invoiceportal.acme.com/confirm,,,Go to Confirm Page,Main.xaml
+HROnboarding,https://hrportal.company.internal/onboarding,,Google Chrome,Open HR Portal,Main.xaml
+HROnboarding,https://hrportal.company.internal/onboarding/new,,,Go to New Employee Form,Main.xaml
+HROnboarding,,HR Portal - New Employee,Google Chrome,Enter Employee Name,Main.xaml
+HROnboarding,,HR Portal - Confirmation,Google Chrome,Get Employee ID,Main.xaml
+HROnboarding,https://acme.workday.com/d/inst/137299236480,Workday - Human Capital Management,Microsoft Edge,Attach Workday Browser,Main.xaml
+HROnboarding,,Workday - Add Worker,Microsoft Edge,Click Add Worker,Main.xaml

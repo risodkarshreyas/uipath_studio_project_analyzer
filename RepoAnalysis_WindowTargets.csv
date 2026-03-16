@@ -1,0 +1,8 @@
+Project,Process (EXE),Friendly App Name,Window Title,Activity,XAML File
+PayrollBot,saplogon.exe,SAP Logon / SAP GUI,SAP Easy Access,Attach SAP HR,Main.xaml
+PayrollBot,saplogon.exe,SAP Logon / SAP GUI,Maintain HR Master Data,Enter Employee ID,Main.xaml
+PayrollBot,PayrollTool.exe,Payroll Management System,Payroll Management System v3,Open Payroll Report Tool,Main.xaml
+PayrollBot,PayrollTool.exe,Payroll Management System,Export Report,Export to PDF,Main.xaml
+ExpenseClaims,FinanceApproval.exe,Finance Approval System,Finance Approval System - Claims,Attach Finance Approval Tool,Main.xaml
+InvoiceProcessing,saplogon.exe,SAP Logon / SAP GUI,SAP Easy Access,Attach SAP ECC,Main.xaml
+InvoiceProcessing,saplogon.exe,SAP Logon / SAP GUI,Park Vendor Invoice: Company Code,Press Enter,Main.xaml
